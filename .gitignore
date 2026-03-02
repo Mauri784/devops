@@ -1,1 +1,6 @@
 node_modules
+<<<<<<< HEAD
+=======
+coverage
+.env
+>>>>>>> 643936f88b0d603a925f5c14e180a3ab8258adc3

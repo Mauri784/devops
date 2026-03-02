@@ -5,9 +5,9 @@
   "scripts": {
     "format": "prettier --write .",
    "lint": "eslint . ",
-     
-   "lint:fix": "eslint . --fix ",
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "start": "node ./bin/www",
+  "test": "jest --verbose",
+   "lint:fix": "eslint . --fix "
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
